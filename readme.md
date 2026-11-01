@@ -6,23 +6,9 @@ This is 2-layer PCB version fully compatible with original
 For all major changes see [changelog.md](https://github.com/JRDMcLAREN/proteus-V2.0/changelog.md)
 
 A high-featured board compatible with [rusEFI](https://github.com/rusefi/rusefi) firmware.
-and also work with [epicEFI](https://epicefi.com) firmware.
+And also work with [epicEFI](https://epicefi.com) firmware.
 
 [Proteus Manual](https://github.com/rusefi/rusefi/wiki/Proteus-Manual)
-
-# Goals and Non-Goals
-
-## Goals
-
-- Run my LS-swapped Volvo 240 with factory harness and equipment
-- Run a sequential ignition, quad-VVT v12 engine (twelve injectors, twelve ignition, five hall sensors, four VVT actuators, dual throttles)
-- Easily manufactured sealed enclosure (all connectors mount in-plane)
-
-## Non-goals
-
-- ~Internal logging (doesn't make sense with 12 mbit/s USB, and a sealed enclosure)~ Version 0.4 has an SD card!
-- Direct injection
-- Cheap
 
 # Hardware Features
 
