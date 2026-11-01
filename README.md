@@ -2,8 +2,8 @@
 
 Based on Proteus ECU from mck1111
 
-This is 2-layer PCB version fully compatible with original
-For all major changes see [changelog.md](https://github.com/JRDMcLAREN/proteus-V2.0/changelog.md)
+This is 2-layer PCB version fully compatible with original.
+For all major changes see [changelog.md](https://github.com/JRDMcLAREN/proteus-V2.0/blob/main/changelog.md)
 
 A high-featured board compatible with [rusEFI](https://github.com/rusefi/rusefi) firmware.
 And also work with [epicEFI](https://epicefi.com) firmware.
