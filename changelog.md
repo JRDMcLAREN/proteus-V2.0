@@ -1,17 +1,17 @@
 # Changelog
 
 ## Proteus 2.0  - November 2026
- - 2 Layer version
- - all passive components are 0603 - one size
- - added MicroUSB socket
- - full redesigned board, replaced components, traces etc.
- - added 4x M3.5 mounting holes
- - added alternative footprints on TOP side for elec. caps - C17, C1001
- - changed AUX connectors for SPI and UART to one 2x6PIN connector/header (with power supply)
- - added 2PIN connector for (external) RTC Battery
- - changed programig connector to 2x5PIN for ST-Link programer - same as has MRE
- - added solder pads for "swaping RX/TX" - for communication modules that require these signals to be interchanged.
-
+ - 2-layer version
+ - All passive components are size 0603 (uniform size)
+ - MicroUSB socket added
+ - Board completely redesigned; components, traces, etc., replaced
+ - 4x M3.5 mounting holes added
+ - Alternative footprints added on the TOP side for electrolytic capacitors (C17, C1001)
+ - AUX connectors for SPI and UART consolidated into a single 2x6-pin header (including power supply)
+ - 2-pin connector added for an (external) RTC battery
+ - Programming connector changed to a 2x5-pin header for the ST-Link programmer (matching the MRE)
+ - Solder pads added for "RX/TX swapping" – for communication modules that require these signals to be swapped.
+ 
 ## Proteus 0.7
  - Reduce BOM lines somewhat, replacing similar components with identical components.
  - Add RTC/backup battery
